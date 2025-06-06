@@ -1,8 +1,11 @@
 # Olá, eu sou o Júlio! 👋
 
-💻 Estudante de desenvolvimento web e ciência de dados
+💻 Estudante de desenvolvimento web, ciência de dados e Analise e Desenvolvimento de Sistemas na Uninove
+
 🚀 Criando projetos com HTML, CSS, JavaScript e Python 
+
 📚 Atualmente aprendendo lógica de programação na FIAP
+
 🎯 Objetivo: me tornar um desenvolvedor front-end profissional
 
 ## 🛠️ Tecnologias que uso:
